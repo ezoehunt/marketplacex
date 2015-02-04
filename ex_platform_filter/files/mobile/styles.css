@@ -952,8 +952,8 @@
 }
 #u82 {
   position:absolute;
-  left:66px;
-  top:6px;
+  left:68px;
+  top:7px;
   width:12px;
   height:10px;
   -webkit-transform:rotate(180deg);
@@ -1019,8 +1019,8 @@
 }
 #u86 {
   position:absolute;
-  left:84px;
-  top:6px;
+  left:86px;
+  top:7px;
   width:12px;
   height:10px;
   -webkit-transform:rotate(180deg);
@@ -1243,7 +1243,7 @@
 #u101 {
   position:absolute;
   left:180px;
-  top:-1px;
+  top:0px;
   width:100px;
   height:19px;
   overflow:hidden;
